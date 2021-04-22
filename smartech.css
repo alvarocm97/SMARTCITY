@@ -518,13 +518,13 @@ img .backgroundparallax {
     height: 16rem;
     width: 10.6rem;
     border-radius: 3px;
-    border: .3rem solid #fff;
+    /* border: .3rem solid #fff; */
     box-shadow: 0 0 .5rem rgba(0, 0, 0, .3);
     object-fit: contain;
 }
 
 #fernando {
-    height: 15rem;
+    height: 16rem;
     width: 10.6rem;
 }
 
